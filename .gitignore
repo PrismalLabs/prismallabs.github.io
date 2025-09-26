@@ -1,0 +1,13 @@
+# idea
+out
+*.ipr
+*.iws
+*.iml
+/.idea/
+
+# claude
+CLAUDE.md
+/.claude/
+
+# obsidian
+/.vault/
