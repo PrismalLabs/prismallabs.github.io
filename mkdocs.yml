@@ -1,6 +1,8 @@
 site_name: Prismal Labs
 theme:
   name: material
+  palette:
+    scheme: slate
 nav:
   - Home: index.md
   - ChromaForge: chroma/index.md
