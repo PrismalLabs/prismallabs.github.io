@@ -1,0 +1,9 @@
+site_name: Prismal Labs
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - ChromaForge: chroma/index.md
+  - Lattice: lattice/index.md
+  - Weave: weave/index.md
+repo_url: https://github.com/PrismalLabs/prismallabs.github.io
